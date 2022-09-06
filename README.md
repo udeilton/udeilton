@@ -1,6 +1,11 @@
 ### Ola! Eu sou o Udeilton de Sousa
 
-[![Udeilton GitHub stats](https://github-readme-stats.vercel.app/api?username=udeilton)](https://github.com/anuraghazra/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=udeilton&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=udeilton" />  
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=udeilton&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)" />
+
 
 
 ## Tecnologia que uso no meu dia 
